@@ -1,4 +1,4 @@
-# Legal AI Assistant
+# RyczaltAI - Legal AI Assistant
 
 ## Overview
 This project is an automated legal assistant specialized in Polish tax law, specifically VAT (Value Added Tax) and Ryczałt (Lump-sum tax). It utilizes a Retrieval-Augmented Generation (RAG) architecture powered by LangChain and local LLMs (via Ollama) to answer user questions based on authoritative legal acts and definitions.
@@ -23,7 +23,7 @@ The system uses a highly modular graph-based workflow (LangGraph) to process, ca
 1.  **Clone the repository**:
     ```bash
     git clone <repository_url>
-    cd LEGAL
+    cd RyczaltAI
     ```
 
 2.  **Install dependencies using `uv`**:
@@ -49,7 +49,7 @@ You can also invoke other scripts for testing specific components:
 ## Project Structure
 
 ```
-c:/LEGAL
+For example: c:/RyczaltAI
 ├── Nodes/                  # specialized graph nodes
 │   ├── categorizer.py      # routing logic
 │   ├── inputtranslator_node.py
@@ -71,6 +71,17 @@ c:/LEGAL
 ```
 
 ## Architecture Flow
+
+```mermaid
+graph TD
+    Start([Start]) --> InputTranslator[Input Translator]
+    InputTranslator --> Categorizer[Categorizer]
+    Categorizer -->|VAT| VATNode[VAT Node]
+    Categorizer -->|Ryczalt| RyczaltNode[Ryczałt Node]
+    VATNode --> End([End])
+    RyczaltNode --> End
+```
+
 1.  **Input**: User query enters the system.
 2.  **Input Translator**: Pre-processes the input (if necessary).
 3.  **Categorizer**: Analyzes the intent to determine if it's a VAT or Ryczałt question.
