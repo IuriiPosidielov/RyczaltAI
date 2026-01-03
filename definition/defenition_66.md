@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(46), the term "TAX FREE system" refers to an IT system used within the Electronic Tax and Customs Services Platform for managing electronic documents that serve as the basis for refunding travel tax. This includes the issuance and circulation of such documents, as well as record keeping.

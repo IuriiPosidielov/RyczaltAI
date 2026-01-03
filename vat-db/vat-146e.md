@@ -1,0 +1,3 @@
+Art. 146e. Przepis art. 120 ust. 11 pkt 3 stosuje się odpowiednio do dostawy
+dzieł sztuki, które podlegały opodatkowaniu podatkiem według stawki 8 %,
+stosowanej do tych towarów zgodnie z art. 146aa.

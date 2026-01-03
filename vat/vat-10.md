@@ -1,0 +1,5 @@
+VAT Law – Intracommunity Acquisition Exemptions (Poland)
+
+This article defines conditions under which intracommunity acquisition of goods does not qualify as a taxable event under Polish VAT law, including exemptions for specific taxpayers, thresholds, and special rules for cross-border deliveries. It references related provisions such as Article 45, 80, 83, 113, and 120, and addresses exceptions for transport, excisable goods, and auction organizers. It also outlines procedures for opting into taxation, duration of such opt-in, and conditions for reapplying the exemption.
+
+Summary: Intracommunity acquisition of goods in Poland is exempt from VAT under specific conditions—such as for certain taxpayers, below-threshold values, or under special cross-border rules—unless the taxpayer opts in or the goods fall under excluded categories like transport or excise goods.

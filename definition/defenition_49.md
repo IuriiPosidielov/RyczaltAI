@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(32a), a structured invoice is understood as an invoice issued using the National e-Invoice System, assigned a unique number identifying it within that system.

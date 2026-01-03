@@ -1,0 +1,5 @@
+Electronic Sales and Delivery of Imported Goods – VAT Liability Attribution Rules
+
+This provision establishes conditions under which a VAT taxpayer who facilitates cross-border e-commerce via an electronic interface (e.g., platform, marketplace, portal) is deemed to have personally received and delivered imported goods. Specifically, if the goods are shipped in packages valued at no more than 150 EUR (converted to Polish złoty), the taxpayer is treated as the direct recipient and deliverer. Additionally, when such a taxpayer enables cross-border sales or deliveries within the EU for entities without EU business presence, they are similarly deemed to have personally received and delivered the goods. The term “facilitation” is defined in accordance with Article 5b of Regulation 282/2011.
+
+VAT liability attribution for imported goods under electronic interfaces in EU cross-border e-commerce, including thresholds, delivery attribution, and facilitation definitions under EU VAT Regulation 282/2011.

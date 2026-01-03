@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(50), the term “introducing products in beverage packaging” refers to a taxpayer who is an entity mentioned in Article 8, points 21a or 21b, of the Act of 13 June 2013 on packaging and waste management, and who participates in the deposit system.

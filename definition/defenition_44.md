@@ -1,0 +1,1 @@
+Drawings with or without descriptions, publications in which more than 20% of the surface is devoted to crosswords, cryptograms, puzzles, and other word or drawing games, publications containing popular information—especially advice and information about famous and well-known public figures, printed magazines for which circulation figures will not be disclosed.

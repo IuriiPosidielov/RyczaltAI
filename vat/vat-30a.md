@@ -1,0 +1,5 @@
+VAT Rules for Intra-Community Acquisitions – Polish Tax Code Article 30a
+
+This article establishes procedures for determining the taxable base in cases of intra-community acquisitions of goods, referencing relevant provisions of Article 29a and other related articles. It includes rules for adjusting the taxable base when it has been reduced, special provisions for cases covered under Article 11, and specific guidelines for pricing used in VAT calculations under Article 103(5aa). It also outlines procedures for public disclosure of reference prices by the Minister of Finance, including timing and format, and provides for a reduction of the taxable base when the acquirer receives a refund of excise duty paid in the Member State of origin, requiring documentary proof of such refund.
+
+Keywords: VAT, intra-community acquisition, taxable base, Article 29a, excise duty refund, public pricing, Polish tax law, EU VAT rules

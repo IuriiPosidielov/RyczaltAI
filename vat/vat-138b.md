@@ -1,0 +1,5 @@
+Import Procedure for Distance Sales of Imported Goods – EU Tax Law
+
+This article establishes eligibility criteria for taxpayers to apply the import procedure for distance sales of imported goods. Eligible taxpayers include: (1) those with a business establishment or fixed place of business within the EU; (2) those with an EU business establishment or fixed place, or non-EU taxpayers represented by an intermediary; (3) non-EU taxpayers with a business establishment in a third country that has entered into an agreement with the EU on mutual assistance in tax, customs, and other charges, modeled after Directive 2010/24/EU and Regulation (EU) No 904/2010. The procedure applies to all distance sales of imported goods by the eligible taxpayer. For non-EU taxpayers under point 3, eligibility is conditional upon conducting such sales from a country where they maintain a business establishment.
+
+Keywords: EU VAT law, distance selling, import procedure, mutual assistance agreements, third-country taxpayers, VAT compliance, cross-border e-commerce, EU tax regulations

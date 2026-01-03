@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(7), the term “import of goods” means the import of goods from the territory of a third country into the territory of the European Union.

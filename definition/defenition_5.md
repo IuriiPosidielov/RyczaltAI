@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(13), the term "tax office" refers to the tax office through which the head of the tax office competent for the taxpayer carries out their duties.

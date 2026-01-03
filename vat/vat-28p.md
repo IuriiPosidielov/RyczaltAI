@@ -1,0 +1,5 @@
+Tax Law – Electronic Notification of Tax Residency Choice (Poland)
+
+Distributors referenced in Art. 22a(3) and (6), and taxpayers referenced in Art. 28k(4) and (6), must submit via electronic communication to the head of the tax office a notification either selecting or withdrawing their choice of tax residence location. The notification must include: (1) submission location and purpose; (2) taxpayer/distributor details: name, registered address or residence, tax identification number; (3) clear indication of selected or withdrawn tax residence location, including timing of the decision; (4) contact details including phone number and email address, and if applicable, contact details of the authorized representative. If the notification fails to meet requirements in paragraph 2, the tax office head shall request corrections within 14 days of receipt.
+
+Tax residency notification obligation under Polish tax law, submitted electronically to tax authority, requires specific content and may be corrected within 14 days if incomplete.

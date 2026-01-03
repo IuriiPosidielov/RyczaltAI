@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(26), “electronic services” means services provided by electronic means, as referred to in Article 7 of Regulation 282/2011.

@@ -1,0 +1,5 @@
+ableObject: Taxation of Goods and Services – Special 0% Rate Provisions (Art. 83)
+
+This provision establishes the legal framework for applying a 0% VAT rate to specific goods, services, and transactions within the Polish tax system, primarily targeting international maritime, air transport, port services, and related supply chains. It includes detailed classifications of vessels (e.g., passenger ships, tankers, fishing vessels), aircraft, port services, repair/processing services, and cross-border logistics, along with conditions for eligibility, documentation requirements, and criteria for air transport operators qualifying as “international carriers.” It also addresses exemptions for educational and humanitarian computer equipment, and special rules for third-country entities and cross-border processing activities, all subject to documentation and compliance with EU customs procedures.
+
+0% VAT applies to maritime and air transport services, port logistics, repair/processing of imported goods, and cross-border transactions meeting specific eligibility criteria, documented with certified proof of international nature.

@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Specifically, Article 2(45) defines “voucher transfer” as the issuance of a voucher and any subsequent transfer of that voucher after its issuance.

@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(20), agricultural products refer to goods originating from one's own agricultural activity as a flat-rate farmer, as well as the goods mentioned in Article 20, paragraphs 1c and 1d of the Act of 26 July 1991 on income tax for natural persons (Journal of Laws of 2025, items 163, 340, 368, and 620).

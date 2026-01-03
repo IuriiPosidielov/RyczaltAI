@@ -1,0 +1,11 @@
+EU VAT Exemption for Cross-Border Sales – Article 113a (Polish VAT Code)
+
+This provision establishes the conditions under which a VAT-registered business with a taxable establishment in one EU Member State may be exempt from VAT on sales made to customers in another Member State. The exemption applies if the business meets cumulative criteria including: (1) total annual turnover (excluding VAT) on EU territory (including domestic sales) not exceeding €100,000 in either the prior or current tax year; (2) sales value (excluding VAT) not exceeding the threshold specified in Article 113(1), with corresponding application of Articles 113(2) and (9); and (3) absence of intra-community supplies of goods or services as defined in Article 113(13). 
+
+To qualify, the taxpayer must notify the host Member State of their intent to benefit from the exemption and obtain an individual identification number with “EX” code for intra-community VAT exemption purposes. If any of the qualifying conditions are not met, the competent tax authority issues a refusal decision, subject to appeal. The exemption becomes effective upon notification of the EX number to the taxpayer, or upon confirmation if already issued for another EU country. 
+
+The taxpayer may withdraw the exemption by notifying the host state, with withdrawal effective either at the start of the next quarter (if notification occurs in the first or second month) or the second month of the next quarter (if notification occurs in the last month). The exemption lapses if either the annual EU turnover exceeds €100,000 or the exempt sales value exceeds the threshold in Article 113(1) or (9), whichever occurs first. 
+
+Currency conversions for sales values (Articles 113(1)(2) and (7)) are performed using the ECB exchange rate published on the first day of the year, or the next day if no rate is published. Articles 113(10a–12) apply accordingly.
+
+Keywords: EU VAT exemption eligibility, cross-border sales, thresholds, EX identification number, notification requirements, withdrawal procedures, and currency conversion rules under Article 113a of the Polish VAT Code.

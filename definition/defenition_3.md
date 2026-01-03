@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(11), value added tax refers to the value added tax imposed on the territory of a Member State, excluding the goods and services tax established by this Act.

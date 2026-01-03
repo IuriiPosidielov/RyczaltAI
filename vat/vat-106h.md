@@ -1,0 +1,7 @@
+Polish VAT Law – Article 106h: Documentation Requirements for Invoices Related to Fiscal Cash Register Sales
+
+This provision establishes how taxpayers must retain documentation when issuing invoices for sales recorded via fiscal cash registers. It sets forth two acceptable methods: either attaching a paper fiscal receipt to the taxpayer’s invoice copy, or retaining the fiscal receipt’s document number and unique cash register ID in the taxpayer’s records — depending on whether the receipt is paper or electronic. The rules apply specifically to sales recorded via fiscal cash registers and do not apply when the sale is already documented in the daily fiscal report of the cash register or when the fiscal receipt is legally deemed equivalent to an invoice under Article 106e, paragraph 5, point 3.
+
+Key Legal Domains: VAT Law, Fiscal Cash Register Compliance, Invoice Documentation, Polish Tax Administration, Electronic Fiscal Receipts
+
+Polish VAT law Article 106h outlines mandatory documentation requirements for invoices linked to fiscal cash register transactions, specifying paper receipt attachment or retention of receipt identifiers, with exceptions for electronic reporting or receipt-equivalent invoices.

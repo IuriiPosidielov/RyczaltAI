@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(25b), broadcasting services shall be understood as the broadcasting services referred to in Article 6b of Regulation 282/2011.

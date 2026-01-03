@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(16), the term “agricultural holding” shall be understood as an agricultural holding within the meaning of the provisions on agricultural tax.

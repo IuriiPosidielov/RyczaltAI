@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(22), the term “sale” refers to the paid delivery of goods and the paid provision of services within the country’s territory, as well as the export of goods and the intra-Community supply of goods.

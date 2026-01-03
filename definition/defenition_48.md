@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(1721). <32), an electronic invoice means an invoice that is issued and received electronically in any format.

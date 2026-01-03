@@ -1,0 +1,1 @@
+Breeding and raising of fur animals, laboratory animals, earthworms, entomophages, and silkworms; operating apiaries; breeding other animals not kept on agricultural holdings; sale of forestry products and hunting activities, excluding round timber from tropical trees (CN 4403).

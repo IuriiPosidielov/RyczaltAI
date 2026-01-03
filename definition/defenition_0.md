@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(1), the term "territory of the country" shall be understood as the territory of the Republic of Poland, subject to Article 2a.

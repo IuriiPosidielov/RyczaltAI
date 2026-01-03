@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(42), the term "issue of a voucher" means the first introduction of a voucher into circulation.

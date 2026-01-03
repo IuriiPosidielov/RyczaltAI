@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. It refers to goods such as cotton (CN 4403 49) and bamboo (CN 1401 10 00), as well as the provision of agricultural services.

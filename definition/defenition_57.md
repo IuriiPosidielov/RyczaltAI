@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2, the 2018 regulations on the succession management of an enterprise owned by a natural person and other facilitations related to business succession (Journal of Laws 2021, item 170) are referenced.

@@ -1,0 +1,5 @@
+Tax Law – Article 108c: Tax Liability and Partial Payment Mechanism Exemptions
+
+This article addresses exemptions from certain tax provisions (Art. 112b and 112c) and from the Ordinance’s Article 56b, when tax payments are made using the partial payment mechanism — including payments made by third parties not indicated on the invoice. It also clarifies that such exemptions apply to tax arrears arising from reporting periods where at least 95% of the tax liability stems from invoices paid via partial payment, and that third-party payments are included in the percentage calculation. Exemptions do not apply if the taxpayer knew the invoice was issued by a non-existent entity, falsely reported activities, contained inaccurate amounts, or confirmed acts subject to civil code provisions (Art. 58 and 83). Additionally, Article 56b’s exemption does not apply if the tax arrears exceed double the amount of tax reported in the filed tax return.
+
+Keywords: tax law, partial payment mechanism, invoice, third-party payment, tax arrears, Article 56b exemption, civil code provisions, tax declaration, tax liability exemption

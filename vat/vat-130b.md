@@ -1,0 +1,5 @@
+EU VAT Registration Procedure – Legal Framework (Poland)
+
+This article establishes the rules for taxpayers seeking to use the EU VAT identification procedure in a Member State, including conditions for registration, notification obligations, and procedures for revocation or refusal. It applies to all intra-EU supplies of goods and services covered by the procedure. Registration must be submitted electronically to the competent head of the tax office in Poland. The competent authority confirms identification using the taxpayer’s existing tax identification number. Refusals or revocations are subject to appeal and must be communicated electronically. Taxpayers must notify the competent authority of changes to their data (excluding those updated under specific statutory provisions), cessation of activities under the procedure, or failure to comply with procedural rules. Revocation may occur if the taxpayer ceases activity, becomes unreachable, fails to meet conditions, or systematically violates procedural rules.
+
+Keywords: EU VAT registration, intra-EU supplies, taxpayer identification, notification obligations, revocation, Poland, VAT law, tax administration

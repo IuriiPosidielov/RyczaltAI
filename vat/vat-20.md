@@ -1,0 +1,5 @@
+VAT Obligations in Intracommunity Goods Transactions — EU Tax Directive
+
+This provision outlines the timing of VAT liability for intracommunity deliveries and acquisitions of goods within the European Union. Liability arises at the moment of invoice issuance by the taxable person, no later than the 15th day of the month following the delivery or acquisition month, subject to specific exceptions. For continuous deliveries spanning more than one month, liability is triggered monthly until completion. Special rules apply for situations referenced in Articles 12 and 13, including when conditions cease to apply. Amendments to this regulation were published in the Official Journal of the EU, L 87 of 2 April 2016, page 35. For acquisitions of new transport vehicles, liability arises upon receipt of goods, but not later than invoice issuance.
+
+VAT liability in intracommunity transactions is triggered by invoice issuance or receipt, subject to specified deadlines and exceptions under EU VAT law.

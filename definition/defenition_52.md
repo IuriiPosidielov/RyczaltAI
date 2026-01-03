@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(34), motor vehicles refer to vehicles as defined by road traffic regulations, with a total permissible weight not exceeding 3.5 tonnes.

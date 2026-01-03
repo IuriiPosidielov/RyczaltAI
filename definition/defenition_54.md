@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(36), the term "registered recipient" shall be understood as the entity referred to in Article 2, paragraph 1, point 13 of the Act of 6 December 2008 on excise duty.

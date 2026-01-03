@@ -1,0 +1,5 @@
+**Taxation of Vehicle-Related Expenses – Polish VAT Law (Art. 86a)**
+
+This article establishes the rules for calculating VAT deductions on expenses related to motor vehicles, including partial deduction at 50% under specific conditions. It defines eligible expenses (purchase, leasing, fuel, maintenance), excludes certain cases (e.g., vehicles used exclusively for business or passenger transport), and mandates vehicle mileage records for eligible deductions. Special provisions apply to commercial vehicles, special-purpose vehicles, and exemptions from mileage tracking. The Minister of Finance may issue regulations to define additional vehicle types, documentation requirements, and exceptions.
+
+**Keywords**: VAT deduction, motor vehicles, business use, mileage records, special vehicles, tax administration, Polish tax law, VAT Article 86a.

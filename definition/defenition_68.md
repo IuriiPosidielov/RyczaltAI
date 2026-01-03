@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(48), the term "VAT group representative" refers to an entity that represents the VAT group within the scope of that group's responsibilities.

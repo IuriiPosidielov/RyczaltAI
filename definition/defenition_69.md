@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(49a), the term "deposit system" shall be understood as a deposit system in the sense of Article 8, point 13a of the Act of 13 June 2013 on packaging management and packaging waste (Journal of Laws of 2024, items 927 and 1911).

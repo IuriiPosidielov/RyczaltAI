@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(40), "succession management" shall be understood as the succession management referred to in the Succession Management Act.

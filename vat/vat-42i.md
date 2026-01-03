@@ -1,0 +1,5 @@
+Public Finance Information Transparency: Official Decisions on WIS Amendments, Cancellations, and Refusals — Public Disclosure Requirements
+
+Decisions under Article 42i of the Public Finance Information Act — including decisions to amend, cancel, or refuse to issue a WIS — must be published without unnecessary delay in the Public Information Bulletin on the official website of the ministry’s supporting office, after removal of identifying data, confidential business data, and data whose disclosure could compromise public safety or public order. The bulletin must also include publication dates of the WIS and related decisions, as well as validity periods of the WIS and amendment decisions.
+
+Public Finance Transparency | WIS Decisions | Public Information Bulletin | Ministry of Finance | Legal Disclosure Requirements

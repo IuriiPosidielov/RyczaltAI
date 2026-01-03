@@ -1,0 +1,7 @@
+Tax Law – Faktura Retention Requirements (Poland)
+
+Taxpayers are required to retain invoices – both issued and received – in a manner ensuring their authenticity, integrity, and readability from the moment of issue/receipt until the tax retention period expires. These requirements also apply to reissued invoices, which must be stored according to accounting periods. Taxpayers with a place of business in Poland must store invoices domestically, unless they are electronically stored in a manner allowing the head of the tax office, head of the customs office, director of the tax office, or head of the customs office to access them online. Taxpayers must provide instant access to invoices upon request from tax authorities and, in the case of electronic storage, must provide instant retrieval and processing of data from them.
+
+Structured invoices are stored in the National e-Invoice System for 10 years from the end of the year of issue – during this period, Articles 112 and 112a do not apply. If the tax retention period has expired, and the tax retention period has not expired, structured invoices stored outside the e-Invoice System are again subject to Articles 112 and 112a.
+
+Poland’s tax law mandates physical or electronic retention of invoices by taxpayers for tax audit purposes, with specific rules for cross-border electronic storage and 10-year e-facture storage in the National e-Invoice System, applicable to VAT and income tax compliance.

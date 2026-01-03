@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(27a), the term “power system” refers to the electricity system as defined under the provisions of the Act of 10 April.

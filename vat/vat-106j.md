@@ -1,0 +1,5 @@
+VAT Law – Correction, Replacement, and Duplicate Invoice Procedures (Poland)
+
+This text outlines legal provisions governing the issuance of correcting, replacing, and duplicate VAT invoices under Polish VAT law, specifically Articles 106j–106l (and related amendments). It covers scenarios requiring correction of issued invoices (e.g., errors, price adjustments, returns), the mandatory structure of corrective invoices, the use of “Nota Korygująca” by recipients, and procedures for reissuing invoices when originals are lost or destroyed. It also specifies implementation dates and technical requirements for e-invoices within the National e-Invoice System.
+
+Keywords: VAT correction, duplicate invoice, note korygująca, e-invoice system, Polish VAT law, invoice reissuance, Article 106j–l, VAT compliance, tax documentation, legal invoice structure, tax administration, electronic invoicing, Poland tax code.

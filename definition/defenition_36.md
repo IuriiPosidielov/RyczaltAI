@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2, the 1997 Energy Law is referenced, as amended by the Journal of Laws of 2024, items 266, 834, 859, and 1847.

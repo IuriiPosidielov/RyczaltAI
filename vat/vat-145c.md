@@ -1,0 +1,3 @@
+Medical Devices Tax Provision – Application to Devices Covered by Annex 3, Point 13, of the Medical Devices Act (as applicable prior to the Act of April 7, 2022) – Tax Rate under Art. 41(2) Applies if Devices Meet EU Regulatory Criteria under Regulation (EU) 2017/745 (Art. 120(4)) or Regulation (EU) 2017/746 (Art. 110(4)), Including Continued Market Availability or Use.
+
+The tax rate specified in Article 41(2) of the Medical Devices Act applies to medical devices referenced in Annex 3, Point 13, of the Act (as in force before April 7, 2022), provided such devices comply with EU regulatory requirements under Regulation (EU) 2017/745 (Art. 120(4)) or Regulation (EU) 2017/746 (Art. 110(4)) and remain available on the market or in use.

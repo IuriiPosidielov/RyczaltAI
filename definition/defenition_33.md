@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(26a), the term “gas system” refers to the gas system situated on the territory of the European Union or any network connected to such a system.

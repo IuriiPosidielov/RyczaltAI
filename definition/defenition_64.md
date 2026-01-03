@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(44), a multi-purpose voucher refers to a voucher that is not a single-purpose voucher.

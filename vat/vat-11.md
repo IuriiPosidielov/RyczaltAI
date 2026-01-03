@@ -1,0 +1,8 @@
+VAT Law – Intracommunity Acquisition of Goods (EU Taxation)
+
+Art. 11. 1. “Intracommunity acquisition of goods for consideration” under Art. 5(1)(4) includes the movement of goods by the VAT taxpayer from the territory of another EU Member State to the territory of the Member State in question, where the goods were produced, extracted, acquired (including via intracommunity acquisition), or imported by the taxpayer on the territory of that other Member State in the course of their business activity, and are intended for the taxpayer’s economic activity.
+
+Intracommunity acquisition of goods for consideration” under Art. 5(1)(4) also applies to goods moved by NATO forces or by armed forces of EU Member States in EU defense operations under the Common Security and Defense Policy
+from the territory of another EU Member State to the territory of the Member State in question, for their own use or for use by accompanying civilian personnel — provided the goods were not acquired by those forces in accordance with general VAT rules applicable on the domestic market of one of the Member States for the respective NATO forces or EU Member States’ armed forces, and such imports could not benefit from the exemption under Art. 45(1)(9).
+
+Intracommunity goods movements for VAT purposes include transfers by businesses and certain military entities under EU VAT rules, with specific conditions for exemption applicability.

@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Article 2(18) defines “fish farm” as conducting business activity in the field of breeding and raising fish and other organisms living in water.

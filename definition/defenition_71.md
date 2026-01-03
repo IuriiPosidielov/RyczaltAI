@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Specifically, Article 2(51) defines packaging waste as packaging waste within the meaning of Article 8 point 8 of the Act of 13 June 2013 on the Economy of Packaging and Packaging Waste, returned within the system deposit.

@@ -1,0 +1,5 @@
+Tax Law – Electronic Invoice Regulations (Poland)
+
+This article establishes the conditions under which taxpayers may issue and transmit to the National e-Invoice System structured invoices or invoices specified in Articles 106nda, 106nf, and 106nh, accompanied by attachments containing only data referenced in Article 106e or strictly related data — termed “invoices with attachments.” It further outlines the procedural requirements for taxpayers to formally declare their intent to either commence or cease using this functionality, including mandatory submission via the e-Customs Office account, verification of eligibility, and formal declarations of compliance and awareness. Authorization to issue such invoices is conditional upon receiving official confirmation from the Head of the National Tax Administration.
+
+Keywords: Polish tax law, e-invoicing, structured invoices, attachments, National e-Invoice System, tax administration, electronic declaration, compliance certification, taxpayer obligations.

@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(52), the term “representing entity” shall be understood as the entity referred to in Article 40h, paragraphs 1 and 2, of the Act of 13 June 2013 on the Economy of Packaging and Packaging Waste.

@@ -1,0 +1,5 @@
+Customs Import Taxation Basis – Polish Customs Code Article 30b
+
+This article defines the taxable base for customs duties on imported goods, including adjustments for excise duties, customs procedures (e.g., passive refinement, temporary import with partial duty exemption, active refinement), and associated costs. It specifies how the customs value is adjusted based on the type of goods and the applicable customs regime, including inclusion of excise duties where applicable, and the inclusion of additional costs (e.g., freight, packaging, insurance) incurred up to the first destination within the EU. The article also clarifies the definition of “first destination” and mandates inclusion of fees and charges levied by customs authorities.
+
+Customs taxation basis for imports is determined by customs value adjusted for duties, excise, and transport-related costs, depending on the import regime and whether goods are subject to excise taxation.

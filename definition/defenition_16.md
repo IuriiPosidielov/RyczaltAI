@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(19), a flat-rate farmer is understood as a farmer who makes deliveries of agricultural products or provides agricultural services, using the tax exemptions provided in Article 43, paragraph 1, point 3, except for farmers who are required by separate regulations to maintain accounting books.

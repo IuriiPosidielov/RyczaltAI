@@ -1,0 +1,5 @@
+VAT Law – Intracommunity Acquisition Rules (EU Taxation)
+
+This provision establishes the default timing for intracommunity acquisition of goods under EU VAT rules. If, by the deadline specified in Article 13b, ownership rights over goods have not been transferred to the recipient taxpayer (as defined in Article 13a(2)(3)) or any of the exceptions in Article 13d occur, the acquisition is deemed to take place on the day immediately following the expiry of the deadline. Additionally, if goods are returned to the originating member state and the dispatching taxpayer has recorded this return in the registry under Article 54a(1) of Regulation 282/2011, no intracommunity acquisition is considered to have occurred under Article 11(1).
+
+EU VAT law – intracommunity acquisition timing rules – Article 13e governs default acquisition dates and return scenarios under the VAT Directive framework.

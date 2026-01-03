@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(27), "excise goods" shall be understood as excise goods within the meaning of excise tax regulations, excluding gas supplied in the gas system.

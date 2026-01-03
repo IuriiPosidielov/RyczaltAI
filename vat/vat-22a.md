@@ -1,0 +1,5 @@
+**VAT Cross-Border Sales – Special Rules for Intra-Community Supply (Art. 22a, VAT Act)**
+
+This provision establishes conditions under which the general VAT rules for intra-community supplies (Art. 22 para. 1 lit. 1a) do not apply, specifically for suppliers operating within a single EU Member State, delivering goods to another Member State, with total annual turnover (goods + services under Art. 28k) below €10,000 (or 42,000 PLN for Poland). It includes rules for selecting delivery locations, notification deadlines, documentation requirements, and correction procedures upon receipt of evidence of delivery abroad.
+
+**Key retrieval terms**: VAT, intra-community supply, cross-border delivery, EU VAT, delivery location, turnover threshold, documentation, delivery proof, correction of VAT liability, VAT registration, EU Member State, Art. 22a, Art. 28k, Art. 28p, Art. 109.

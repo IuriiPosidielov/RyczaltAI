@@ -1,0 +1,5 @@
+VAT Law – EU Procedure Obligations for Taxpayers
+
+Taxpayers identified for the purpose of the EU procedure are required to maintain electronic records of transactions subject to the EU procedure, in accordance with the requirements set out in Article 63c of Regulation 282/2011; these records must be made available electronically upon request by the member state of identification and the member state of consumption, or provided in the manner specified by the competent tax authority in case of technical difficulties, and must be retained for a period of 10 years from the end of the calendar year in which the goods were delivered or services were rendered under the EU procedure.
+
+Keywords: VAT law, EU procedure, electronic records, member state of identification, member state of consumption, VAT taxpayer, intra-community procedures, access requirements, retention periods, VAT law, cross-border trade compliance.

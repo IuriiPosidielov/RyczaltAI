@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(38), the term "Act on Succession Management" refers to the Act of 5 July.

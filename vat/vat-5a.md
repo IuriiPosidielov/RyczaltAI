@@ -1,0 +1,5 @@
+Customs Classification of Goods and Services – EU Harmonized System (CN)
+
+Goods and services subject to the activities referred to in Article 5, listed in classifications aligned with the Combined Nomenclature (CN) as established by Council Regulation (EEC) No 2658/87 of 23 July 1987 concerning the Common Customs Tariff and the statistical nomenclature (Official Journal of the European Communities L 256 of 9.09.1987, p. 1, as amended – Official Journal of the European Union Polish Special Edition, Vol. 2, p. 382, as amended), or in statistical classifications issued under public statistics legislation, shall be classified according to the Combined Nomenclature (CN) or such statistical classifications, provided that statutory or implementing regulations based on the law refer to specific sections, positions, subpositions, or codes within the CN or statistical classification symbols.
+
+Customs classification of goods and services under EU harmonized nomenclature or public statistics classifications, where statutory or implementing regulations explicitly reference CN codes or statistical symbols.

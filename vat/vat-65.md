@@ -1,0 +1,5 @@
+Import Tax Exemptions for Gifts Under Polish Customs Law
+
+Article 65 of Polish customs regulations provides exemptions from import duties for goods brought into Poland under specific gift-related conditions. Exemptions apply to items received or sent as gifts during official state visits, or by foreign public authorities and organizations to Polish public authorities or entities, provided the goods are not alcoholic beverages or tobacco products. The exemption requires that the goods be of an occasional, non-commercial nature and not intended for commercial purposes.
+
+Import tax exemptions for gifts under Polish customs law apply to goods received or sent during official visits or by foreign public entities, excluding alcoholic beverages and tobacco, provided the items are non-commercial and of an occasional nature.

@@ -1,0 +1,5 @@
+Tax Adjustment for Business Real Estate Usage Changes — Polish Corporate Income Tax Law
+
+This provision governs tax adjustments for real estate assets forming part of a taxpayer’s business, where a change in the extent of their commercial use occurs within 120 months following the month the property was put into operation. Adjustments are made to previously deducted or accrued tax based on the remaining period of the 120-month window. The adjustment must be reported in the tax return for the period in which the change occurred, calculated proportionally to the remaining time. If the property is also used for tax-exempt business activities without deduction rights, the adjustment must account for the proportional share defined under Articles 90 sections 3–10a and 10c–10g as applied during deduction. Importantly, Article 8, paragraph 2, does not apply in such cases.
+
+— Tax adjustment mechanism triggered by commercial usage changes in business real estate over 120-month period, with proportional recalibration and exclusion of Article 8(2) applicability.

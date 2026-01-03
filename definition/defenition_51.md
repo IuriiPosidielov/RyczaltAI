@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(6), the term "goods" refers to items and their parts, as well as any forms of energy.

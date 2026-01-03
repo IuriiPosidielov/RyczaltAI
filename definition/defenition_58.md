@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(39), the term “inherited enterprise” shall be understood as an inherited enterprise within the meaning of the Succession Management Act.

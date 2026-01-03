@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(28), the term "Tax Ordinance" refers to the Act of 29 August 1997, as published in the Journal of Laws of 2025, items 111, 497, 621, and 622.

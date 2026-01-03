@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(14a), "creation of real estate" shall be understood as the construction of a building, buildings, or parts thereof, or their improvement within the meaning of the tax regulations, which is profitable.

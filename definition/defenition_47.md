@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2, item 852 of the 2024 version, it refers to documents that are issued and received in any electronic format.

@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. It lays down implementing measures for Directive 2006/112/EC on the common system of value added tax.

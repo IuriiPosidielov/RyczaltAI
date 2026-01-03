@@ -1,0 +1,5 @@
+VAT Tax Liability Reduction for Early Payment via VAT Account – Polish Tax Law
+
+This provision outlines the mechanism for reducing the amount of VAT tax liability when payment is made entirely from a VAT account prior to the statutory due date. The reduction is calculated using the formula: S = Z × r × 360, where S represents the reduction amount, Z is the pre-reduction tax liability from the taxpayer’s VAT return, r is the reference interest rate of the National Bank of Poland applicable two business days before the payment date, and n is the number of calendar days from the date the bank account (or cooperative savings-and-loan account) was debited, excluding that day, up to and including the tax payment deadline. The reduction amount is rounded to the nearest whole Polish złoty, applying the rounding rules specified in Article 63(1) of the Tax Ordinance.
+
+VAT tax liability reduction, early payment, VAT account, reference interest rate, tax ordinance, Polish tax law

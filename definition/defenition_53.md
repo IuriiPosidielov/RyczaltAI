@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(35), the term “entity running a tax warehouse” shall be understood as an entity referred to in Article 2, paragraph 1, point 11 of the Act of 6 December 2008 on excise tax (Journal of Laws of 2025, items 126, 222, and 340).

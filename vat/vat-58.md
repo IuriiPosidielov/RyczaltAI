@@ -1,0 +1,5 @@
+**Customs Duty Exemptions for Human-Origin Medical Goods – Polish Tax Law**
+
+This article provides customs duty exemptions for specific medical goods imported into Poland, including human-derived therapeutic substances, blood group testing reagents, tissue typing reagents, and associated packaging, solvents, and additives imported concurrently with such goods. Exemptions apply only if the goods are destined for non-commercial medical or scientific institutions, accompanied by a certificate from the exporting country’s competent authority, and transported in containers bearing an identification label.
+
+**Keywords**: customs duty exemption, human-derived medical substances, blood group testing reagents, tissue typing reagents, non-commercial medical use, import certification, identification labeling, Polish tax law, customs regulation, medical goods import.

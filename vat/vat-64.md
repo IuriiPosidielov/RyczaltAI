@@ -1,0 +1,5 @@
+Import Tax Exemption for Symbolic Awards and Decorations – Polish Tax Law
+
+This article provides for import tax exemption on specific symbolic awards, medals, and commemorative items under defined conditions: (1) decorations awarded by foreign governments to persons residing in the country; (2) symbolic awards granted abroad to residents of the country for achievements in any field or for special events, brought into the country by the recipient; (3) symbolic awards donated free of charge by foreign authorities or third-country residents, imported to be awarded in the country for the same achievements; (4) symbolic souvenirs of low value intended for free distribution to foreign residents during international conferences or similar events held in the country, if quantity indicates non-commercial intent. Exemption applies only if the interested party provides documentation confirming compliance with the conditions in paragraph 1.
+
+Import tax exemption for foreign symbolic awards, medals, and souvenirs under specified non-commercial conditions — applicable to Polish customs law and international event contexts.

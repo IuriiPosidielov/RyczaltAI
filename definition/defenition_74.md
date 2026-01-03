@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(9), the import of services refers to the provision of services in connection with the performance of an activity where the taxpayer is the service recipient as specified in Article 17, paragraph 1, point 4.

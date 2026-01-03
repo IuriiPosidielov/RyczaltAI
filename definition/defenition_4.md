@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(12), residential buildings refer to buildings intended for permanent residential use, as classified in the Polish Classification of Construction Objects under section 11.

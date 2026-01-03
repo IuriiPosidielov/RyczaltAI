@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(47), a VAT group refers to a group of financially related entities that are economically and organizationally linked and registered as VAT taxpayers.

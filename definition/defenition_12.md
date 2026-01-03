@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(17), the term "forest farm" refers to a farm operated by a taxpayer who is liable for forestry tax.

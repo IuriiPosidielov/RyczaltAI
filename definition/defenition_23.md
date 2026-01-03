@@ -1,0 +1,1 @@
+to the intra-Community acquisition of goods referred to in Article 9, or c) a non-taxpaying entity, provided that the goods delivered are not new means of transport or goods referred to in Article 22, paragraph 1, point 2.

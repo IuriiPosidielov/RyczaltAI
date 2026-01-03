@@ -1,0 +1,5 @@
+VAT Electronic Invoicing – Emergency Procedures During System Unavailability (Poland)
+
+During the period of inaccessibility of the National e-Invoice System, as referred to in Art. 106ne para. 4, taxpayers must issue electronic invoices in the format specified under Art. 106gb para. 8. Taxpayers are obligated to transmit such invoices to the National e-Invoice System for assignment of an identifying number within the next business day after the end of the system inaccessibility period, as defined in Art. 106ne para. 4. If, within that deadline, a notification of system failure is issued under: (1) Art. 106ne para. 1 — the provisions of Art. 106nf para. 4 and 5 apply accordingly; (2) Art. 106ne para. 3 — para. 2 does not apply. The provisions of Art. 106nda paras. 4–15 apply accordingly to invoices issued under para. 1.
+
+This text outlines procedural obligations for VAT taxpayers during temporary unavailability of the national electronic invoicing system, including format requirements, transmission deadlines, and fallback provisions in case of system failure — applicable under Polish VAT law.

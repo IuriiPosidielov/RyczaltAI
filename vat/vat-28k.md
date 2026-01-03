@@ -1,0 +1,5 @@
+VAT Law – Place of Supply for Cross-Border Services (EU Context)
+
+This provision establishes the default place of supply for telecommunications, broadcasting, and electronic services provided to non-taxable entities, defined as the location of their registered office, habitual residence, or usual place of stay. It includes exceptions for intra-EU services where the service provider and recipient are located in different EU member states, provided the total value of services (and goods under Art. 22a) does not exceed €10,000 (or 42,000 PLN for Polish-based providers) in the current or prior tax year. If this threshold is exceeded, the default rule reverts to the provider’s location. Taxpayers may opt to declare a different place of supply, subject to formal notification (Art. 28p) and a 2-year lock-in period before changing. Reversal of such a choice requires prior notice and is permitted only after the specified period.
+
+EU VAT rules for cross-border service provision, place of supply determination, and taxpayer notification requirements for intra-EU transactions.

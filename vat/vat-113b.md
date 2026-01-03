@@ -1,0 +1,5 @@
+EU VAT Exemption Registration – Polish Tax Law (Art. 113b)
+
+This article establishes the conditions, procedures, and administrative requirements for Polish taxpayers to benefit from VAT exemption provisions when supplying goods or services to other EU Member States under the EU VAT framework. It outlines eligibility based on annual turnover thresholds (≤€100,000), mandatory prior notification to the competent tax office, issuance of a Polish EX identification number (PL+EX), and obligations for quarterly reporting and data updates. The procedure includes verification by foreign tax authorities, revocation conditions, and digital submission via e-Tax Office.
+
+Keywords: EU VAT exemption, Polish tax administration, turnover threshold, prior notification, Polish EX ID, quarterly reporting, e-Urzędzie Skarbowy, cross-border VAT, VAT exemption regime, EU tax coordination.

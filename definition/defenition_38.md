@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(5), the term “territory of a third country” refers to the territory of a country that is not part of the European Union, subject to the provisions of Article 2a, paragraphs 1 and 3.

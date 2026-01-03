@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. In Article 2(4), the term “territory of a Member State” shall be understood as the territory of countries that are part of the territory of the European Union, subject to Article 2a.

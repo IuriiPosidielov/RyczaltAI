@@ -1,0 +1,1 @@
+Article 2 of the Polish VAT Act defines key terms used in the Act. Under Article 2(43), a single-purpose voucher refers to a voucher for which the place of delivery of the goods or services to which the voucher relates, as well as the amount of value added tax or excise tax due in respect of such delivery, are known at the time the voucher is issued.
